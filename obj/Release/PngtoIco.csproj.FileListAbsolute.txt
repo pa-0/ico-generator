@@ -1,0 +1,10 @@
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\bin\Release\ImgtoIco.exe.config
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\bin\Release\ImgtoIco.exe
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\bin\Release\ImgtoIco.pdb
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\PngtoIco.csprojAssemblyReference.cache
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\PngtoIco.Form1.resources
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\PngtoIco.Properties.Resources.resources
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\PngtoIco.csproj.GenerateResource.cache
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\PngtoIco.csproj.CoreCompileInputs.cache
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\ImgtoIco.exe
+C:\Users\akeramid\OneDrive - University of Cyprus\Documents\Visual Studio 2019\Projects\PngtoIco\obj\Release\ImgtoIco.pdb
